@@ -72,7 +72,7 @@ for perm in root.findall('permission'):
 privapp_permissions_dict = {}
 
 # Definitions for privapp-permission allowlists
-GLOB_XML_STR = 'privapp-permissions-google.xml'
+GLOB_XML_STR = 'permissions.xml'
 
 # Parse allowlists to extract allowed privileged permissions
 for allowlist in glob(GLOB_XML_STR):

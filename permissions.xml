@@ -141,6 +141,7 @@
         <permission name="android.permission.ACCESS_VIBRATOR_STATE"/>
         <permission name="android.permission.MEDIA_CONTENT_CONTROL"/>
         <permission name="android.permission.READ_NEARBY_STREAMING_POLICY"/>
+        <permission name="android.permission.MANAGE_ACTIVITY_STACKS"/>
         <permission name="com.android.voicemail.permission.READ_VOICEMAIL"/>
     </privapp-permissions>
 
@@ -250,5 +251,6 @@
         <permission name="android.permission.SUBSTITUTE_NOTIFICATION_APP_NAME"/>
         <permission name="android.permission.WRITE_APN_SETTINGS"/>
         <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.READ_WIFI_CREDENTIAL"/>
     </privapp-permissions>
 </permissions>
